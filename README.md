@@ -1,4 +1,4 @@
-# ❤️ Animated Heart
+# ❤️ Animated Heart ❤️
 
 A simple and beautiful animated heart project built with **HTML**, **CSS**, and **JavaScript**.  
 
@@ -36,5 +36,11 @@ Animated_Heart/
 - **JavaScript**  
 
 
-Subham Mohapatra
-🔗 GitHub Profile
+## 🌟 Author
+**Subham Mohapatra**  
+🔗 [GitHub Profile](https://github.com/SubhamMohapatra1509)  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – feel free to use and modify it.
